@@ -1,5 +1,6 @@
 RENCANA BELAJAR SELAMA LIBURAN : 
 - ikut IDCamp front end developer
+  - daftar IDCamp
 - kerja sampingan
 - perdalam pemrograman melalui online course
 - perdalam softskill melalui online course
